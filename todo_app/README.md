@@ -28,3 +28,4 @@ This project is a starting point for a Flutter application that allows users to 
 ### References
 
 Tutorial [Mitch Koko](https://www.youtube.com/watch?v=TclK5gNM_PM&t=29661s)
+Reading Material [Todo Reading Materials](https://flutterawesome.com/tag/todo/)
