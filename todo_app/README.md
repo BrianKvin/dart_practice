@@ -19,7 +19,12 @@ This project is a starting point for a Flutter application that allows users to 
 1. Clone this repository:
    ```bash
    git clone https://github.com/BrianKvin/dart_practice/todo_app.git
+   ```
 2. cd todo_app
 3. flutter clean
 4. flutter pub get
 5. flutter run
+
+### References
+
+Tutorial [Mitch Koko](https://www.youtube.com/watch?v=TclK5gNM_PM&t=29661s)
