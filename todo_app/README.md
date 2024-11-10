@@ -1,8 +1,14 @@
 # todo_app
 
-A simple Todo list application built with Flutter.
-![ToDo App](https://github.com/user-attachments/assets/5a317a6b-63fb-4537-9fe2-cef70ab67606)
+# My Project
 
+This is a simple project for the ToDo App.
+
+## Screenshots
+
+Here’s a screenshot of the ToDo App:
+
+<img src="https://github.com/user-attachments/assets/5a317a6b-63fb-4537-9fe2-cef70ab67606" alt="ToDo App" width="300"/>
 
 ## Getting Started
 
