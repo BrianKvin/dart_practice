@@ -14,6 +14,13 @@ This project is a starting point for a Flutter application that allows users to 
 - **Delete Tasks**: Easily remove tasks from the list.
 - **Persistent Storage**: (Optional) Save tasks using local storage so they persist across app restarts.
 
+### Dependencies
+
+This app uses the following dependencies:
+
+- **slidable**: A Flutter package that provides sliding actions for list items. Used to enable features like delete or edit actions in the task list.
+- **hive**: A lightweight and fast key-value database for Flutter, used for persistent storage of tasks.
+
 ### Installation
 
 1. Clone this repository:
