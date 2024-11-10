@@ -1,6 +1,6 @@
 # dart_practice
 
-Welcome to the **dart_practice** repository! This is where I document and store all my practice projects, coding challenges, and anything related to Dart and Flutter development.
+**dart_practice** repository! This is where I document and store all my practice projects, coding challenges, and anything related to Dart and Flutter development.
 
 ## Purpose
 
@@ -18,7 +18,7 @@ The **dart_practice** repository serves as a collection of various experiments, 
 
 Here’s a list of some of the main folders or topics that you can expect to find in this repository:
 
-- `flutter_apps/` - Flutter-based applications and UIs.
+- `todo_app/` - Flutter-based applications and UIs.
 - `coding_challenges/` - Solutions to coding challenges, algorithm problems, and competitive programming problems.
 - `dart_basics/` - Exploration of basic Dart concepts and syntax.
 - `flutter_widgets/` - Custom Flutter widgets, UI components, and tutorials.
@@ -33,6 +33,5 @@ To get started with any of the projects, follow these steps:
 ```bash```
 git clone https://github.com/yourusername/dart_practice.git
 
-### 2. cd dart_practice/flutter_apps  # Example for navigating to Flutter apps
 
 
