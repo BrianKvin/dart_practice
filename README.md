@@ -1,5 +1,7 @@
 # dart_practice
 
+![Dart & Flutter](https://www.orientsoftware.com/Themes/Content/Images/blog/2024-04-24/flutter-vs-dart-comparing.jpg)
+
 **dart_practice** repository! This is where I document and store all my practice projects, coding challenges, and anything related to Dart and Flutter development.
 
 ## Purpose
