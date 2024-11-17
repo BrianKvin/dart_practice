@@ -6,7 +6,7 @@ This Flutter app is a minimal e-commerce application that allows users to browse
 
 <!-- <img src="https://github.com/user-attachments/assets/Screenshot_1731849533.png" alt="Minimal E-commerce App" width="300"/> -->
 
-![MInimal E-commerce](/assets/Screenshot_1731849533.png)
+![MInimal E-commerce](assets/Screenshot_1731849533.png)
 
 ## The app includes:
 
