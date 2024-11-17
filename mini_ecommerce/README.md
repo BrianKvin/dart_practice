@@ -4,9 +4,7 @@
 
 This Flutter app is a minimal e-commerce application that allows users to browse products, add them to their shopping cart, and view the cart. It demonstrates basic e-commerce functionality including product listings, cart management, and state management using the Provider package.
 
-<!-- <img src="https://github.com/user-attachments/assets/Screenshot_1731849533.png" alt="Minimal E-commerce App" width="300"/> -->
-
-![MInimal E-commerce](assets/Screenshot_1731849533.png)
+<img src="https://github.com/user-attachments/assets/a8c99da1-e88b-48d6-a0d9-97df4e599bd2" alt="App Screenshot" width="500"/>
 
 ## The app includes:
 
